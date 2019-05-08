@@ -1,0 +1,26 @@
+/*
+* Maggie Morris
+* 5/8/19
+* Girl Develop It
+*/
+
+/* THe universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+header{text-align: center;}/* Now the picture is in the center of the page*/
+header {background-color:#ff6666;}/*the background color of the head so it matches the color of the picture*/
+body {background-color: #ffe6e6;}
+#boyfriend {float: right;}
+#girlswithlaptops {float: right;}
+a:hover,a:focus {color:fuchsia;}
+a:hover,a:focus {font-size: 25px;}/* The color and size of the links when you hover over it*/
+p,ul {font-family: arial, futura, serif;}
+h1, h2 {font-family: cursive, pacifico, arial}/* the font of the headings*/
